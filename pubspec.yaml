@@ -15,3 +15,4 @@ dev_dependencies:
 dependencies:
   dotenv: ^4.1.0
   nyxx: ^5.0.3
+  nyxx_commands: ^5.0.2
